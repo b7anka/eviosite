@@ -3,25 +3,19 @@
     "apps": [],
     "details": [
       {
-        "appID": “G34A8V9PN5.com.evio.evioprod",
+        "appID": "G34A8V9PN5.com.evio.evioqa",
         "paths": [
           "*"
         ]
       },
       {
-        "appID": “G34A8V9PN5.com.evio.evioqa",
+        "appID": "G34A8V9PN5.com.evio.eviodev",
         "paths": [
           "*"
         ]
       },
       {
-        "appID": “G34A8V9PN5.com.evio.eviodev",
-        "paths": [
-          "*"
-        ]
-      },
-      {
-        "appID": “G34A8V9PN5.com.evio.evioprodtest",
+        "appID": "G34A8V9PN5.com.evio.evioprodtest",
         "paths": [
           "*"
         ]
