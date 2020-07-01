@@ -7,18 +7,6 @@
         "paths": [
           "*"
         ]
-      },
-      {
-        "appID": "G34A8V9PN5.com.evio.eviodev",
-        "paths": [
-          "*"
-        ]
-      },
-      {
-        "appID": "G34A8V9PN5.com.evio.evioprodtest",
-        "paths": [
-          "*"
-        ]
       }
     ]
   }
