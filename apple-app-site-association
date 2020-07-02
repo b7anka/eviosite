@@ -5,7 +5,19 @@
       {
         "appID": "G34A8V9PN5.com.evio.evioqa",
         "paths": [
-          "*"
+          "/qrcode?id=*"
+        ]
+      },
+      {
+        "appID": "G34A8V9PN5.com.evio.evioprodtest",
+        "paths": [
+          "/qrcode?id=*"
+        ]
+      },
+      {
+        "appID": "G34A8V9PN5.com.evio.eviodev",
+        "paths": [
+          "/qrcode?id=*"
         ]
       }
     ]
